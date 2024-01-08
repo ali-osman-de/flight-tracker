@@ -1,0 +1,6 @@
+.body {
+    background-color: whitesmoke;
+    backdrop-filter: blur(1000px);
+    /* background-image: url("../../../public/logo192.png"); */
+  }
+  

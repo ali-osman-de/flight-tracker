@@ -1,0 +1,18 @@
+.myNavbar {
+  background-color: black;
+}
+.myTitle {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  margin-right: 10px;
+}
+
+.myIcon {
+  margin-left: 10px;
+  display: inline-block;
+  transition: transform 0.3s ease-in-out;
+}
+
+.myIcon:hover {
+  transform: scale(1.2);
+}
