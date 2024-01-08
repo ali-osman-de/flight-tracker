@@ -6,7 +6,7 @@
 
 <h5>This project you can configure your api. Recently this project using local json.</h5>
 
-<h3>Active Link: https://https://flight-status-81e309.netlify.app/ </h3>
+<h3>Active Link: https://flight-status-81e309.netlify.app/ </h3>
 <p>You can using example input TK4797, FJ30, AK5416, EK3448 and also you can find more input from ../api/api.js </p>
 
 # Getting Started with Create React App
