@@ -1,3 +1,11 @@
+# This project name is FlightStatus and I atteched my project screenshots
+
+<img width="1680" alt="Screenshot 2024-01-07 at 9 48 22 PM" src="https://github.com/ali-osman-de/flight-tracker/assets/72684098/8b1d2281-1312-465e-b9a0-8991d62b16b1">
+
+<img width="1680" alt="Screenshot 2024-01-07 at 9 48 41 PM" src="https://github.com/ali-osman-de/flight-tracker/assets/72684098/2842f907-ea55-426e-b588-bbef012d4db4">
+
+<h5>This project you can configure your api. Recently this project using local json.</h5>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
